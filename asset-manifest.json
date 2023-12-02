@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/World-TechnoLab/static/css/main.72f1c904.css",
-    "main.js": "/World-TechnoLab/static/js/main.0e25b5cb.js",
+    "main.js": "/World-TechnoLab/static/js/main.ce9ee82a.js",
     "static/js/787.00c50098.chunk.js": "/World-TechnoLab/static/js/787.00c50098.chunk.js",
     "static/media/bootstrap-icons.woff?": "/World-TechnoLab/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/World-TechnoLab/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "index.html": "/World-TechnoLab/index.html",
     "main.72f1c904.css.map": "/World-TechnoLab/static/css/main.72f1c904.css.map",
-    "main.0e25b5cb.js.map": "/World-TechnoLab/static/js/main.0e25b5cb.js.map",
+    "main.ce9ee82a.js.map": "/World-TechnoLab/static/js/main.ce9ee82a.js.map",
     "787.00c50098.chunk.js.map": "/World-TechnoLab/static/js/787.00c50098.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72f1c904.css",
-    "static/js/main.0e25b5cb.js"
+    "static/js/main.ce9ee82a.js"
   ]
 }
